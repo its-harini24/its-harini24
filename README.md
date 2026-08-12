@@ -56,12 +56,7 @@ I enjoy **building projects, solving coding problems, participating in hackathon
 - 🏆 Participating in **hackathons**
 - 🎯 Preparing for **Software Development Internships**
 
-
-```
-
----
-
-
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -90,6 +85,9 @@ improving:
 goal:
   - Software Development Internship
 ```
+
+
+
 
 ---
 
