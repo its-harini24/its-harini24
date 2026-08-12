@@ -61,7 +61,7 @@ I enjoy **building projects, solving coding problems, participating in hackathon
 
 ---
 
-## `🎯 Current Focus`
+
 
 ```yaml
 learning:
@@ -329,9 +329,9 @@ Currently developing skills in programming, software development, databases, pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=its-harini24&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=its-harini24&show_icons=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harini24&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harini24&layout=compact" height="180"/>
 
 </div>
 
