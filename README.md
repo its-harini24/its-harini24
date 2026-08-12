@@ -323,18 +323,6 @@ Currently developing skills in programming, software development, databases, pro
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-harini24&theme=react-dark&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## `📈 Contribution Activity`
 
 <div align="center">
