@@ -40,30 +40,28 @@
 
 
 ---
-
-## `> whoami`
+## 👋 About Me
 
 Hi! I'm **Harini**, a Computer Science and Business Systems (CSBS) student at **Rajalakshmi Institute of Technology, Chennai**.
 
-I'm interested in **software development and full-stack web development**, and I'm currently strengthening my foundations in **React.js, Java, MySQL, and Data Structures & Algorithms**.
+I'm passionate about **software development and full-stack web development**. I'm currently strengthening my skills in **React.js, Java, MySQL, and Data Structures & Algorithms**.
 
-I enjoy learning by building projects, solving programming problems, participating in hackathons, and continuously improving my development skills.
+I enjoy **building projects, solving coding problems, participating in hackathons, and learning new technologies**.
 
-```bash
-$ whoami
+### 🚀 Currently
 
-NAME        = Harini
-DEGREE      = Computer Science and Business Systems
-COLLEGE     = Rajalakshmi Institute of Technology
-LOCATION    = Chennai, India
-INTERESTS   = Software Development | Full-Stack Development
-CURRENTLY   = React.js | Java DSA | MySQL
-GOAL        = Software Development Internship
+- 🌱 Learning **React.js, Java, MySQL & DSA**
+- 💻 Building **React and full-stack projects**
+- 🧩 Practicing **LeetCode & problem solving**
+- 🏆 Participating in **hackathons**
+- 🎯 Preparing for **Software Development Internships**
+
+
 ```
 
 ---
 
-## `> cat current-focus.yaml`
+## `🎯 Current Focus`
 
 ```yaml
 learning:
@@ -95,7 +93,7 @@ goal:
 
 ---
 
-## `> ls skills/`
+## `🛠️ Tech Stack`
 
 ### Languages
 
@@ -115,7 +113,7 @@ goal:
 
 ---
 
-## `> tree learning-path/`
+## `🌱 Learning Journey`
 
 ```text
 Software Development
@@ -150,7 +148,7 @@ Software Development
 
 ---
 
-## `> ls projects/`
+## `🚀 Projects`
 
 ### 🔐 Password Generator
 
@@ -240,7 +238,7 @@ A chat interface project created to practice frontend UI development and interac
 
 ---
 
-## `> git log --learning`
+## `📚 What I'm Learning`
 
 ```text
 2026
@@ -257,7 +255,7 @@ A chat interface project created to practice frontend UI development and interac
 
 ---
 
-## `> dsa --progress`
+## `🧠 DSA & Problem Solving`
 
 Currently practicing **Data Structures & Algorithms using Java**.
 
@@ -307,7 +305,7 @@ I'm continuing to expand my problem-solving skills by learning new DSA patterns 
 
 ---
 
-## `> achievements/`
+## `🏆 Achievements`
 
 ### 🏆 Hackathon — Second Prize
 
@@ -317,7 +315,7 @@ The experience helped me develop my ability to work on projects under time const
 
 ---
 
-## `> education/`
+## `🎓 Education`
 
 🎓 **Computer Science and Business Systems (CSBS)**
 
@@ -327,19 +325,19 @@ Currently developing skills in programming, software development, databases, pro
 
 ---
 
-## `> github --stats`
+## `📊 GitHub Stats`
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=its-harini24&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harini24&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harini24&layout=compact&hide _border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-## `> contributions --activity`
+## `📈 Contribution Activity`
 
 <div align="center">
 
@@ -349,7 +347,7 @@ Currently developing skills in programming, software development, databases, pro
 
 ---
 
-## `> roadmap`
+## `🗺️ My Roadmap`
 
 ```text
 [✓] Programming fundamentals
@@ -370,7 +368,7 @@ Currently developing skills in programming, software development, databases, pro
 
 ---
 
-## `> open-to`
+## `🎯 Open To`
 
 ```text
 INTERESTED IN
@@ -384,7 +382,7 @@ INTERESTED IN
 
 ---
 
-## `> connect`
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -406,7 +404,7 @@ INTERESTED IN
 
 <div align="center">
 
-### `> keep_building();`
+### `✨ Keep Building`
 
 **Learn → Build → Solve → Improve → Repeat**
 
