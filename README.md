@@ -1,24 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&height=180&section=header&text=Harini%20N&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=CSBS%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=CSBS+Student+%7C+Aspiring+Software+Developer;React.js+%7C+Java+%7C+MySQL;Practicing+Data+Structures+%26+Algorithms;Building+Projects+%7C+Solving+Problems;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:9F7AEA,100:ED64A6&height=220&section=header&text=Harini%20N&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSBS%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Harini+%F0%9F%91%8B;CSBS+Student+%7C+Software+Development+Enthusiast;React.js+%7C+Java+%7C+MySQL;DSA+Learner+%7C+LeetCode+Problem+Solver;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CSBS%20Student-667EEA?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-764BA2?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-EC4899?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/harinin24">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-667EEA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/its-harini24">
-<img src="https://img.shields.io/badge/GitHub-its--harini24-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/GitHub-764BA2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Harini_2008">
-<img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LeetCode-EC4899?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=its-harini24&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+
 </div>
+
+---
+
 
 ---
 
