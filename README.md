@@ -40,7 +40,7 @@
 
 
 ---
-## 👋 About Me
+## `👋 About Me`
 
 Hi! I'm **Harini**, a Computer Science and Business Systems (CSBS) student at **Rajalakshmi Institute of Technology, Chennai**.
 
@@ -48,7 +48,7 @@ I'm passionate about **software development and full-stack web development**. I'
 
 I enjoy **building projects, solving coding problems, participating in hackathons, and learning new technologies**.
 
-### 🚀 Currently
+## ` 🚀 Currently`
 
 - 🌱 Learning **React.js, Java, MySQL & DSA**
 - 💻 Building **React and full-stack projects**
@@ -325,13 +325,13 @@ Currently developing skills in programming, software development, databases, pro
 
 ---
 
-## `📊 GitHub Stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=its-harini24&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=its-harini24&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harini24&layout=compact&hide _border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-harini24&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
 
